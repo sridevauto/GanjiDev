@@ -733,6 +733,8 @@
         <members>Lead.Title</members>
         <members>Lead.Website</members>
         <members>LeadCleanInfo.Industry</members>
+        <members>MY_Partner__c.Account__c</members>
+        <members>MY_Partner__c.Email__c</members>
         <members>Macro.Description</members>
         <members>Macro.IsAlohaSupported</members>
         <members>Macro.IsLightningSupported</members>
@@ -1309,6 +1311,7 @@
         <members>InvoiceLine</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
+        <members>MY_Partner__c</members>
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
