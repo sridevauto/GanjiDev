@@ -734,7 +734,9 @@
         <members>Lead.Website</members>
         <members>LeadCleanInfo.Industry</members>
         <members>MY_Partner__c.Account__c</members>
+        <members>MY_Partner__c.Description__c</members>
         <members>MY_Partner__c.Email__c</members>
+        <members>MY_Partner__c.phone__c</members>
         <members>Macro.Description</members>
         <members>Macro.IsAlohaSupported</members>
         <members>Macro.IsLightningSupported</members>
