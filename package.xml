@@ -1622,6 +1622,11 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>my_new_permission_set</members>
+        <members>test_permission</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
         <members>new_PS_group</members>
         <name>PermissionSetGroup</name>
     </types>
