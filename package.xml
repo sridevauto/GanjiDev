@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>46.0</version>
+    <version>48.0</version>
     <types>
         <members>sampleclass</members>
         <name>ApexClass</name>
@@ -1765,6 +1765,11 @@
         <members>UserInterface</members>
         <members>UserManagement</members>
         <name>Settings</name>
+    </types>
+    <types>
+        <members>Campaign.TestCampaign</members>
+        <members>ServiceResource.TestGuestRule</members>
+        <name>SharingGuestRule</name>
     </types>
     <types>
         <members>Account</members>
