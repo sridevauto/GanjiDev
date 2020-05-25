@@ -260,7 +260,6 @@
         <members>Case.ContactId</members>
         <members>Case.ContactMobile</members>
         <members>Case.ContactPhone</members>
-        <members>Case.Customer_Email__c</members>
         <members>Case.Description</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.IsClosedOnCreate</members>
@@ -735,7 +734,6 @@
         <members>Lead.Title</members>
         <members>Lead.Website</members>
         <members>LeadCleanInfo.Industry</members>
-        <members>MY_Partner__c.Account__c</members>
         <members>MY_Partner__c.Description__c</members>
         <members>MY_Partner__c.Email__c</members>
         <members>MY_Partner__c.phone__c</members>
