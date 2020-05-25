@@ -260,6 +260,7 @@
         <members>Case.ContactId</members>
         <members>Case.ContactMobile</members>
         <members>Case.ContactPhone</members>
+        <members>Case.Customer_Email__c</members>
         <members>Case.Description</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.IsClosedOnCreate</members>
@@ -280,6 +281,7 @@
         <members>Case.SuppliedName</members>
         <members>Case.SuppliedPhone</members>
         <members>Case.Type</members>
+        <members>Case.new_phone__c</members>
         <members>CaseContactRole.Role</members>
         <members>CommSubscription.DataUsePurposeId</members>
         <members>CommSubscription.IsDefault</members>
