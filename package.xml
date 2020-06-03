@@ -1413,6 +1413,10 @@
         <name>FlexiPage</name>
     </types>
     <types>
+        <members>test_partner</members>
+        <name>Flow</name>
+    </types>
+    <types>
         <members>DE Default</members>
         <name>HomePageLayout</name>
     </types>
