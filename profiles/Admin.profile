@@ -91,6 +91,10 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>PartnerAccess</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>sampleclass</apexClass>
         <enabled>true</enabled>
     </classAccesses>
